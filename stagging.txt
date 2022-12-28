@@ -1,3 +1,4 @@
 git add로 기록할 파일부터 고르고
 고른파일 기록명령은 git commit
 작업폴더 -> git add ->(staging area)-> git commit -> (repository)
+good job
