@@ -25,3 +25,7 @@ git reset --hard commitID : 과거로 모든 걸 되돌린다(도르마무)
 git branch -M main : main으로 변경
 git push -u 원격저장소주소 main / -u는 처음에만!
 git remote add 변수명 주소
+
+git clone
+폴더 - editor로 열고 git clone 주소
+push를 이미 누군가 했다면, 나는 pull먼저 해야함
