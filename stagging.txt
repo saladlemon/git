@@ -21,4 +21,7 @@ git merge --squash 새브랜치 : 중심에 새로운 브랜치로 추가(쓸데
 
 commit 취소하기 : git revert commitID
 git reset --hard commitID : 과거로 모든 걸 되돌린다(도르마무)
+
 git branch -M main : main으로 변경
+git push -u 원격저장소주소 main
+git remote add 변수명 주소
