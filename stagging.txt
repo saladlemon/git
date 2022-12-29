@@ -23,5 +23,5 @@ commit 취소하기 : git revert commitID
 git reset --hard commitID : 과거로 모든 걸 되돌린다(도르마무)
 
 git branch -M main : main으로 변경
-git push -u 원격저장소주소 main
+git push -u 원격저장소주소 main / -u는 처음에만!
 git remote add 변수명 주소
