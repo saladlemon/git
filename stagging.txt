@@ -3,3 +3,8 @@ git add로 기록할 파일부터 고르고
 고른파일 기록명령은 git commit
 작업폴더 -> git add ->(staging area)-> git commit -> (repository)
 good job
+git diff : commit 내용
+branch : 프로젝트 복사본 / 기존 코드를 복사하여 새로운 경로에서 수정한다.
+왜냐면 원래 있던 코드를 직접 수정하다가 버그나면 대혼란 그자체 큰일이야
+git branch 이름
+git switch 이름 : 이동하고 싶은 브랜치로 간다
