@@ -18,3 +18,6 @@ rebase 쓰는 이유 : 브랜치 없이도 코드 잘짜는 느낌쓰, 간단하
 
 squash and merge 
 git merge --squash 새브랜치 : 중심에 새로운 브랜치로 추가(쓸데없는 commit이 표시가 안돼, 깔끔)
+
+commit 취소하기 : git revert commitID
+git reset --hard commitID : 과거로 모든 걸 되돌린다(도르마무)
